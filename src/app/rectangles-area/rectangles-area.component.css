@@ -1,0 +1,9 @@
+:host {
+  display: block;
+  margin: 1rem 0;
+  border: 1px solid black;
+  transform: rotate3d(1, 0, 0, 180deg);
+}
+canvas {
+  width: 100%;
+}
